@@ -1,0 +1,23 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bunu Sevmediysen</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <div class="container">
+    <h2>Bunu Sevmediysen</h2>
+    <p>Bir konu girin (film, dizi, hobi, etkinlik vb.):</p>
+    <input type="text" id="konuInput" placeholder="Örn: Star Wars serisi">
+    <button id="getirButton">Karşıt Fikir Getir</button>
+    <div id="sonucAlani">
+      <p id="loading" style="display: none;">Yükleniyor...</p>
+      <p id="hataMesaji" style="display: none; color: red;"></p>
+      <div id="fikirText"></div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
