@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const gecmisListesi = document.getElementById('gecmisListesi');
 
   // ---- ÖNEMLİ: BURAYA KENDİ GEMINI API ANAHTARINIZI GİRİN ----
-  const GEMINI_API_KEY = 'Gemini Api Keyiniz';
+  const GEMINI_API_KEY = 'SENİN_GEMINI_API_ANAHTARIN_BURAYA';
   // -----------------------------------------------------------
 
   // Geçmiş aramaları localStorage'dan yükle
