@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Chrome Extension](https://chromewebstore.google.com/?hl=tr&pli=1)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-v1.0-blue?logo=google-chrome)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
